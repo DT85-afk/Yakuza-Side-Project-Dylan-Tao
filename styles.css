@@ -1,0 +1,131 @@
+.image {
+    background-image: url("https://image.api.playstation.com/vulcan/img/cfn/11307_wTAeR2cKi3pykOY-2L55t365Ks_ToeweZ08apODaO4ye0jnHWxPwRACYbQiTqNBZS1yqzNwMTcThNd8me2V_Yu6AbS.jpg?w=440");
+    min-height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+}
+
+ul {
+    list-style-type: none;
+    font-family: 'Dela Gothic One', cursive;
+}
+
+.header {
+    position: absolute;
+    z-index: 1000;
+    top: 200px;
+    left: 550px;
+    padding: 10px;
+    border: 20px;
+    font-size: 40px;
+    text-align: left;
+    border-color: blue;
+    color: white;
+    background-color: #810000;
+}
+
+.header-2 {
+    background-color: #F0F8FF;
+    margin: 0px;
+    text-align: center;
+    font-family: "Times New Roman", arial, serif;
+    padding: 30px;
+    border: 30px;
+}
+
+.paragraph {
+    font-size: 20px;
+    margin: 0px;
+    padding: 20px;
+    background-color: #F0F8FF;
+    text-align: center;
+    font-weight: 400;
+    border: 20px;
+}
+
+.image-2 {
+    background-image: url("https://cdn.vox-cdn.com/thumbor/lYGGaA_ut2dDrtPve4p0Kv-4nkM=/0x0:1682x911/1200x800/filters:focal(707x322:975x590)/cdn.vox-cdn.com/uploads/chorus_image/image/59812355/yakuza_6_dad.0.png");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+    z-index: 1;
+}
+
+.fun-characters {
+    position: absolute;
+    z-index: 1000;
+    top: 3400px;
+    left: 600px;
+    padding: 0px;
+    border: 0px;
+    border-color: blue;
+    color: #f2f2f2;
+    font-size: 35px;
+}
+
+.kiryu {
+    font-size: 20px;
+    margin: 0px;
+    padding: 35px;
+    background-color: #F0F8FF;
+    text-align: center;
+    font-weight: 400;
+    border: 20px;
+}
+
+.yakuza {
+    background-image: url("https://thumbs.gfycat.com/DifficultMeagerFeline-max-1mb.gif");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.wacky-substories {
+    position: absolute;
+    z-index: 1000;
+    top: 4000px;
+    left: 550px;
+    padding: 20px;
+    border: 0px;
+    border-color: blue;
+    color: #f2f2f2;
+    font-size: 35px;
+}
+
+.final {
+    background-image: url("https://static.miraheze.org/thefinalrumblewiki/f/f7/Kazuma_Kiryu.png");
+    min-height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+}
+
+.where-to-buy {
+    position: absolute;
+    z-index: 1000;
+    top: 5300px;
+    left: 600px;
+    padding: 20px;
+    border: 0px;
+    font-size: 35px;
+    background-color: #F8F8FF;
+}
+
+a {
+    text-decoration: none;
+    color: #810000;
+}
+
+a:hover {
+ 	color:blue;   
+}
